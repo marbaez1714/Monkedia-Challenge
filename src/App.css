@@ -1,0 +1,208 @@
+.App {
+  text-align: center;
+}
+.headerDiv{
+  font-family: Glegoo;
+  width:100%;
+  background-color: #E4E4E4;
+  padding-top:1vh;
+  padding-bottom:1vh;
+  margin-bottom:2vh;
+
+}
+.logo {
+  height: 8vh;
+  margin-right:1vh;
+}
+.headerTitle{
+  height:6vh;
+  margin-left:2vh;
+  margin-bottom:0;
+  vertical-align: middle;
+  font-size:5vh;
+  color:#4F3206;
+  text-align: left;
+  font-weight:bold;
+}
+.tagline{
+  text-align: left;
+  color:#4F3206;
+  margin-bottom: 0;
+  margin-left:2vh;
+  font-size:2vh;
+}
+.backgroundImage{
+  height: 40vh;
+  width:60vw;
+  margin-left:10%;
+  background-image: url('./images/img5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: table-cell;
+  vertical-align: middle;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.productsDiv{
+  margin-top:2vh;
+  margin-bottom:2vh;
+}
+.storePage{
+  font-family: Glegoo;
+}
+.storeCard{
+  width: 100%;
+}
+.imageBackground{
+  width:100%;
+  height: 30vh;
+  background-color: #E4E4E4;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.pillImage { 
+  max-width: 55%;
+  max-height: 95%;
+  margin-top:1vh;
+}
+.productInfo{
+  width: 60%;
+  height: 6vh;
+  display: inline-block;
+  background-color: #9E9E9E;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  vertical-align: top;
+}
+.addToCart{
+  font-family: Glegoo;
+  width: 40%;
+  height: 6vh;
+  font-weight: bold !important;
+  font-size:1vh;
+  vertical-align: top;
+  display: inline-block;
+  background-color:#88A769;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.addToCartText{
+  width:100%;
+  font-size: 1.75rem;
+  margin: 0;
+}
+.productTitle{
+  font-weight: bold;
+  font-size: 1.8vh;
+  padding-left:0.75vh;
+  padding-top:0.75vh;
+  vertical-align: top;
+  text-align: left;
+  color:#4F3206;
+
+
+}
+.productSubtitle{
+  text-align: left;
+  padding-left:0.75vh;
+  font-size: 1.4vh;
+  font-weight: bold;
+  color:#4F3206;
+
+}
+.quotes{
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #E4E4E4;
+  text-align: right;
+  font-size: 1.25rem;
+  color: #4F3206;
+  font-weight: bold;
+  padding-top:1vh;
+  padding-left:15%;
+  padding-right:15%;
+  padding-bottom:1vh;
+  width:100%;
+  height: 100%;
+  display: table;
+}
+.howItWorks{
+  height: 40vh;
+  width:60vw;
+  margin-left:10%;
+  background-image: url('./images/img4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: table-cell;
+  vertical-align: middle;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.howQuote{
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #E4E4E4;
+  text-align: left;
+  color: #4F3206;
+  font-weight: bold;
+  padding-top:1vh;
+  padding-left:15%;
+  padding-right:15%;
+  padding-bottom:1vh;
+  width:100%;
+  height: 100%;
+  display: table;
+}
+.landingPage{
+  font-family: Glegoo;
+  margin-bottom: 2vh;
+}
+.mainImage{
+  height: 40vh;
+  width:60vw;
+  margin-left:10%;
+  background-image: url('./images/img6.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: table-cell;
+  vertical-align: middle;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.productDetails{
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #E4E4E4;
+  text-align: left;
+  color: #4F3206;
+  font-weight: bold;
+  padding-top:1vh;
+  padding-left:15%;
+  padding-right:15%;
+  padding-bottom:1vh;
+  width:100%;
+  height: 100%;
+  display: table;
+}
+.landingSection{
+  margin-bottom: 2vh
+}
+.landingText{
+  padding-left:0 !important;
+  padding-right:0 !important;
+  vertical-align: middle ;
+}
+.landingImage { 
+  padding-left: 0 !important;
+  padding-right: 0 !important
+}
+.landingTextContent{
+  display: table-cell;
+  vertical-align: middle
+}
+.goodUses{
+  height: 40vh;
+  width:60vw;
+  margin-left:10%;
+  background-image: url('./images/img1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: table-cell;
+  vertical-align: middle;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
